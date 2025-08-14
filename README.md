@@ -12,7 +12,7 @@ Header
 
 1. **LMS — тестовая документация**  
    - Тест‑кейсы, чек‑листы, работа с требованиями.  
-   - [Кейс в Notion](#) · [Репозиторий проекта](https://github.com/Rus-glitch/qa-lms-testing-project.git)  
+   - [Кейс в Notion](#) · [Репозиторий проекта](https://github.com/Rus-glitch/qa-lms-testing-project/tree/main/readme)  
     *Навык: разработка полной тестовой документации и работы с требованиями.*
 
 2. **Питомник — exploratory + Jira (18 багов)**  

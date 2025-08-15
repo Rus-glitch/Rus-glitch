@@ -1,17 +1,18 @@
-## Данный документ представляет собой примеры написанных мной ,баг-репортов. 
-### Они демонстрируют умение описывать дефекты с указанием приоритетов, серьёзности, условий воспроизведения и подтверждающих материалов.
+## Данный документ представляет собой примеры написанных мной баг-репортов. 
+### Цель - продемонстрировать умение описывать дефекты с указанием приоритетов, серьёзности, условий воспроизведения и подтверждающих материалов.
 Полный список баг-репортов можно посмотреть в репозитории учебного проекта [LMS-Системы](https://github.com/Rus-glitch/qa-lms-testing-project/tree/main/modules).
 
 ## Содержание
-- [BR_reg_name_invalid_num_01 — Поля “Имя” и “Фамилия” принимают цифры](#br_reg_name_invalid_num_01)
-- [BR_reg_password_invalid_02 — Пароль без заглавной буквы и спецсимвола принимается](#br_reg_password_invalid_02)
-- [BR_auth_sql-inj_03 — SQL-инъекция при авторизации](#br_auth_sql-inj_03)
+- [BR_reg_name_invalid_num_01 — Поля «Имя» и «Фамилия» принимают цифры](#br_reg_name_invalid_num_01)
+- [BR_reg_password_invalid_02 — Пароль принимается без заглавной буквы и спецсимвола](#br_reg_password_invalid_02)
+- [BR_auth_sql-inj_03 — SQL-инъекция проходит и ведёт в аккаунт при авторизации](#br_auth_sql-inj_03)
 - [BR_auth_not-block_04 — Нет блокировки после 5 неудачных попыток входа](#br_auth_not-block_04)
-- [BR_pw_recovery_invalid_email_05 — Нет сообщения при незарегистрированном email](#br_pw_recovery_invalid_email_05)
-- [BR_pw_recovery_expired_link_06 — Нет сообщения о просроченной ссылке](#br_pw_recovery_expired_link_06)
-- [BR_CC_005_filter_category_no_courses_error — Ошибка 500 при пустой категории](#br_cc_005_filter_category_no_courses_error)
-- [BR_CC_007_sort_invalid_param_404 — Ошибка 404 при некорректном параметре сортировки](#br_cc_007_sort_invalid_param_404)
-- [BR_auth_empty_fields — Кнопка “Войти” активна при пустых полях](#br_auth_empty_fields)
+- [BR_pw_recovery_invalid_email_05 — Сообщение при незарегистрированном email отсутствует/некорректно](#br_pw_recovery_invalid_email_05)
+- [BR_pw_recovery_expired_link_06 — Не отображается сообщение о просроченной ссылке восстановления пароля](#br_pw_recovery_expired_link_06)
+- [BR_CC_005_filter_category_no_courses_error — Ошибка 500 при категории без курсов](#br_cc_005_filter_category_no_courses_error)
+- [BR_CC_007_sort_invalid_param_404 — Некорректный параметр сортировки вызывает 404](#br_cc_007_sort_invalid_param_404)
+- [BR_auth_empty_fields — Кнопка «Войти» активна при пустых полях](#br_auth_empty_fields)
+
 
 ## BR_reg_name_invalid_num_01 — Поле «Имя» и «Фамилия» принимает цифры
 

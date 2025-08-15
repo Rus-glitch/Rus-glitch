@@ -28,7 +28,7 @@ Header
 ## Testing Documentation 
 **Все документы подготовлены как часть учебных проектов и демонстрируют навыки QA.**
 - [Тест-кейсы](docs/testcases/tc.md)  
-- [Чек-листы](#)  
+- [Чек-листы](docs/checklists/cl.md)  
 - [Баг-репорты](docs/bugreports/br.md)  
 
 ## Skills 

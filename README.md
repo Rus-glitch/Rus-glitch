@@ -17,7 +17,7 @@ Header
 
 2. **Питомник — exploratory + Jira (18 багов)**  
    - Исследовательское тестирование, Sprint Report, баг‑репорты, работа с Jira.  
-   - [Кейс в Notion](#) · [Артефакты (PDF/скрины)](#) · [Репозиторий проекта](#)  
+   - [Кейс в Notion](#) · [Репозиторий проекта](https://github.com/Rus-glitch/petstore_web/blob/main/README.md)  
    *Навык: исследовательское тестирование, ведение баг-репортов (Jira), работа в Scrum.*
 
 3. **Swagger PetStore — API + Postman**  
@@ -44,7 +44,7 @@ Header
 (ссылка на резюме)
 
 ## Contacts 
-Email: <...> · Telegram: <...> · LinkedIn: <...>
+Email: rus3002@mail.ru · Telegram: <...> · LinkedIn: <...>
 
 
 

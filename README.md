@@ -13,23 +13,25 @@ Header
 1. **LMS — тестовая документация**  
    - Работа с требованиями, оформление тест‑кейсов, чек‑листов, баг-репортов, отчетов о тестировании.
    - [Репозиторий проекта](https://github.com/Rus-glitch/qa-lms-testing-project/tree/main/readme)  
-    *Навык: разработка полной тестовой документации и работы с требованиями.*
+    *Разработал тест-кейсы и чек-листы, покрыв 100% функциональных требований, подготовил баг-репорты с приоритетами и вложениями.*
 
-2. **Питомник — exploratory + Jira (18 багов)**  
-   - Исследовательское тестирование, Sprint Report, баг‑репорты, работа с Jira.  
+2. **Питомник — exploratory + Jira**  
+   - Исследовательское тестирование, баг‑репорты, работа с Jira.  
    - [Репозиторий проекта](https://github.com/Rus-glitch/petstore_web/blob/main/README.md)  
-   *Навык: исследовательское тестирование, ведение баг-репортов (Jira), работа в Scrum.*
+   *Провёл exploratory тестирование, обнаружил и оформил 14 багов в Jira с приоритетами и подробными шагами воспроизведения.*
 
 3. **Swagger PetStore — API + Postman**  
-   - Коллекции Postman, окружения, автотесты.  
+   - Коллекции Postman, автотесты, окружения, тест-кейсы и чеклисты (TestIt), баг-репорты (Jira). 
    - [Репозиторий проекта](https://github.com/Rus-glitch/swagger-api-testing/blob/main/README.md)  
-   *Навык: тестирование API, написание автотестов, работа с Postman и Swagger, написание тестовой документации в TestIT.*
+   *Разработал коллекцию Postman и окружение для проверки API, создал тест-кейсы в TestIT и чек-листы в Jira, проверил корректность CRUD-операций и обработку данных API.*
 
 ## Testing Documentation 
 **Все документы подготовлены как часть учебных проектов и демонстрируют навыки QA.**
 - [Тест-кейсы](docs/testcases/tc.md)  
 - [Чек-листы](docs/checklists/cl.md)  
-- [Баг-репорты](docs/bugreports/br.md)  
+- [Баг-репорты](docs/bugreports/br.md) 
+- [Коллекции Postman](https://github.com/Rus-glitch/swagger-api-testing/blob/main/postman_collection/postman_collection.md)
+- [Backlog](https://github.com/Rus-glitch/petstore_web/blob/main/docs/backlog-sprint/backlog.md) & [Sprint Board](https://github.com/Rus-glitch/petstore_web/blob/main/docs/sprint-board/sprint_board.md)
 
 ## Skills 
 
@@ -44,7 +46,8 @@ Header
 (ссылка на резюме)
 
 ## Contacts 
-Email: rus3002@mail.ru · Telegram: <...> · LinkedIn: <...>
-
+**GitHub:** [https://github.com/Rus-glitch](https://github.com/Rus-glitch)  
+**LinkedIn:** [https://www.linkedin.com/in/ruslan-gadelsh](https://www.linkedin.com/in/ruslan-gadelsh)  
+**Email:** rus3002@mail.ru
 
 

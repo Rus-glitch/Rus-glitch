@@ -1,7 +1,7 @@
 Header
 
 ## About Me
-### **QA Engineer | Web & API Testing | Practical Projects Portfolio* ###
+### *QA Engineer | Web & API Testing | Practical Projects Portfolio* ###
 
 **QA‑инженер (самостоятельное обучение + практические проекты)** с фокусом на Web и API тестирование.
 За 6 месяцев освоил работу с Jira, Postman, Git, Chrome DevTools, TestIT / TestRail.    

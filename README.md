@@ -1,7 +1,7 @@
 Header
 
 ## About Me
-### *QA Engineer | Web & API Testing | Practical Projects Portfolio* ###
+### **QA Engineer | Web & API Testing | Practical Projects Portfolio* ###
 
 **QA‑инженер (самостоятельное обучение + практические проекты)** с фокусом на Web и API тестирование.
 За 6 месяцев освоил работу с Jira, Postman, Git, Chrome DevTools, TestIT / TestRail.    
@@ -33,10 +33,10 @@ Header
 
 ## Skills 
 
-**Tools:** Jira | TestIT | Postman | Swagger | Git | DevTools | Figma  
+**Tools:** Jira | TestIT | Postman | Swagger | Git | DevTools   
 **Testing:** Manual | Exploratory | Web | API | Functional | Regression  
-**Documentation:** Test Cases | Checklists | Bug Reports | Test Plans  
-**Methodology:** Scrum | Agile  
+**Documentation:** Test Cases | Checklists | Bug Reports | Test Plans | Test Reports   
+**Methodology:** Scrum | Kanban | Agile  
 **Tech Basics:** HTTP | JSON | CRUD | Basic Postman Scripts
 
 

@@ -1,4 +1,4 @@
-Header
+![Header](/header.png)
 
 ## About Me
 ### *QA Engineer | Web & API Testing | Practical Projects Portfolio* ###

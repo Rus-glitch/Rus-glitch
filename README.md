@@ -42,7 +42,7 @@
 **Tech Basics:** HTTP | JSON | CRUD | Basic Postman Scripts
 
 
-## My CV...
+## My CV
 (ссылка на резюме)
 
 ## Contacts 

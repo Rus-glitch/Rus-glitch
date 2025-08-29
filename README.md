@@ -25,8 +25,6 @@
    - [Репозиторий проекта](https://github.com/Rus-glitch/swagger-api-testing/blob/main/README.md)  
    *Разработал коллекцию Postman и окружение для проверки API, создал тест-кейсы в TestIT и чек-листы в Jira, проверил корректность CRUD-операций и обработку данных API.*
 
-## [My CV](cv/QA-CV.pdf)
-
 ## Testing Documentation 
 **Все документы подготовлены как часть учебных проектов и демонстрируют навыки QA.**
 - [Тест-кейсы](docs/testcases/tc.md)  
@@ -34,6 +32,9 @@
 - [Баг-репорты](docs/bugreports/br.md) 
 - [Коллекции Postman](https://github.com/Rus-glitch/swagger-api-testing/blob/main/postman_collection/postman_collection.md)
 - [Backlog](https://github.com/Rus-glitch/petstore_web/blob/main/docs/backlog-sprint/backlog.md) & [Sprint Board](https://github.com/Rus-glitch/petstore_web/blob/main/docs/sprint-board/sprint_board.md)
+
+### My CV
+- [Резюме QA Engineer](cv/QA-CV.pdf)
 
 ## Skills 
 
